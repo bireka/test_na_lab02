@@ -1,3 +1,3 @@
 to jest test
-to te¿ jest jakiœ tekst
-hgfdhfghdfg
+to teï¿½ jest jakiï¿½ teks t
+nowa linijka
